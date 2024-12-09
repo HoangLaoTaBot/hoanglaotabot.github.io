@@ -1,4 +1,5 @@
 [
     "connect_ton_wallet",
-    "invite_3_friends"
+    "invite_3_friends",
+    "buyStars"
 ]

@@ -1,5 +1,5 @@
 {
-    "TYPE": "GPM",
+    "TYPE": "HIDEMIUM",
     "AUTO_SEND_TELEGRAM_LOGOUT": true,
     "BOT_TOKEN_LOGOUT": "8185920712:AAHNBa3iXzHr2FlVzOCz-csGoFIjsa3ulqI",
     "BOT_CHANNEL_ID_LOGOUT": "@hoanglaotatelegramlogout"
